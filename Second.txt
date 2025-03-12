@@ -1,0 +1,4 @@
+Konsisten Belajar Website 
+ - selesaikan playlist Github
+ - Selesaikan playlist Node.js
+ - Lanjut ke video React
