@@ -3,3 +3,7 @@ Konsisten Belajar Website
  - Selesaikan playlist Node.js
  - Lanjut ke video React
  - Semoga bisa selesai sampe tgl 16 amin
+
+Yang sudah dikerjakan
+- uda sampe video ke-2 dari github
+- Lanjut ke video ke-3 nanti siap buka puasa
