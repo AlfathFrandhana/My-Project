@@ -2,7 +2,8 @@ Konsisten Belajar Website
  - selesaikan playlist Github
  - Selesaikan playlist Node.js
  - Lanjut ke video React
- - Semoga bisa selesai sampe tgl 16 amin
+ - sudah selesai di HTML 5 
+ - terlambat karna selesaikan dulu HTML yang ketinggalan
 
 Yang sudah dikerjakan
 - uda sampe video ke-2 dari github
